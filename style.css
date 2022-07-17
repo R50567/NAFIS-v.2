@@ -318,9 +318,13 @@
     margin-right: 50px;
 }
 
-.img-three:hover {
+.content-nine:hover img{
     transform: scale(1.2);
-    transition: .8s;  
+    transition: .8s;
+}
+
+.content-nine:hover .content-ten {
+    display: block;
 }
 
 .content-ten {
@@ -331,6 +335,7 @@
     margin-left: 10px;
     height: 108.7px;
     width: 273.48px;
+    display: none;
 }
 
 .paragarph-thirteen {
