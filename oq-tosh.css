@@ -61,12 +61,12 @@
     color: black;
 }
 
-.boulevard {
+.oq-tosh {
     margin-top: 100px;
     display: flex;
 }
 
-.Rectangle17 {
+.Rectangle21 {
     margin-left: 55px;
 }
 
@@ -87,11 +87,11 @@
     line-height: 40px;
 }
 
-.boulevard__div {
+.oq-tosh__div {
     width: 603px;
 }
 
-.boulevard__paragraph-boulevard {
+.oq-tosh__paragraph-oq-tosh {
     font-family: 'Montserrat';
     font-style: normal;
     font-weight: 400;
@@ -99,7 +99,7 @@
     line-height: 40px;
 }
 
-.boulevard__option {
+.oq-tosh__option {
     position: relative;
     font-family: 'Montserrat';
     font-style: normal;
@@ -110,18 +110,18 @@
     bottom: 8px;
 }
 
-.boulevard__line-img {
+.oq-tosh__line-img {
     position: relative;
     bottom: 9px;
 }
 
-.rectangle18__image {
+.rectangle22__image {
     margin: 128px 100px 0px 100px;
 }
 
 .client__paragraph {
     margin: 80px 226px 0px 293px;
-    width: 936px;
+    width: 940px;
     font-family: 'Montserrat';
     font-style: normal;
     font-weight: 400;
@@ -144,7 +144,7 @@
 
 .kitchen__paragraph {
     margin: 80px 304px 0px 293px;
-    width: 855px;
+    width: 981px;
     font-family: 'Montserrat';
     font-style: normal;
     font-weight: 400;
@@ -170,7 +170,7 @@
 
 .bathroom__paragraph {
     margin: 80px 324px 0px 314px;
-    width: 812px;
+    width: 981px;
     font-family: 'Montserrat';
     font-style: normal;
     font-weight: 400;
@@ -193,7 +193,7 @@
 
 .hall__paragraph {
     margin: 80px 338px 0px 337px;
-    width: 775px;
+    width: 981px;
     font-family: 'Montserrat';
     font-style: normal;
     font-weight: 400;
