@@ -89,17 +89,119 @@
     line-height: 40px;
 }
 
+.boulevard__div {
+    width: 603px;
+}
 
+.boulevard__paragraph-boulevard {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 40px;
+}
 
+.boulevard__option {
+    position: relative;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 40px;
+    margin: 0;
+    bottom: 8px;
+}
 
+.boulevard__line-img {
+    position: relative;
+    bottom: 9px;
+}
 
+.rectangle18__image {
+    margin: 128px 100px 0px 100px;
+}
 
+.client__paragraph {
+    margin: 80px 226px 0px 293px;
+    width: 936px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 40px;
+}
 
+.kitchen__images {
+    margin: 80px 100px 0px 100px;
+}
 
+.kitchen__image-one {
+    margin-bottom: 224px;
+}
 
+.kitchen__image-two {
+    margin-left: 58px;
+    margin-top: 105px;
+}
 
+.kitchen__paragraph {
+    margin: 80px 304px 0px 293px;
+    width: 855px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+}
 
+.bedroom__image {
+    margin: 80px 105px 0px 95px;
+}
 
+.bathroom__images {
+    margin: 80px 100px 0px 100px;
+}
+
+.bathroom__image-one {
+    margin-bottom: 184px;
+}
+
+.bathroom__image-two {
+    margin-left: 58px;
+    margin-top: 65px;
+}
+
+.bathroom__paragraph {
+    margin: 80px 324px 0px 314px;
+    width: 812px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 40px;  
+}
+
+.hall__images {
+    margin: 80px 100px 0px 100px;
+}
+
+.hall__image-one {
+    margin-bottom: 184px;
+}
+
+.hall__image-two {
+    margin-left: 58px;
+    margin-top: 65px;
+}
+
+.hall__paragraph {
+    margin: 80px 338px 0px 337px;
+    width: 775px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 40px;
+}
 
 .footer {
     margin-top: 117px;
