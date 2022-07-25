@@ -61,16 +61,16 @@
     color: black;
 }
 
-.oq-tosh {
+.zenith {
     margin-top: 100px;
     display: flex;
 }
 
-.Rectangle21 {
-    margin-left: 55px;
+.Rectangle17 {
+    margin-left: 48px;
 }
 
-.h1__boulevard {
+.h1__zenith {
     margin-top: 20px;
     font-family: 'Tenor Sans';
     font-style: normal;
@@ -79,7 +79,7 @@
     line-height: 37px;
 }
 
-.p1__boulevard {
+.p1__zenith {
     font-family: 'Montserrat';
     font-style: normal;
     font-weight: 400;
@@ -87,11 +87,12 @@
     line-height: 40px;
 }
 
-.oq-tosh__div {
-    width: 603px;
+.zenith__div {
+    width: 515px;
 }
 
-.oq-tosh__paragraph-oq-tosh {
+.zenith__paragraph-zenith {
+    width: 530px;
     font-family: 'Montserrat';
     font-style: normal;
     font-weight: 400;
@@ -99,7 +100,7 @@
     line-height: 40px;
 }
 
-.oq-tosh__option {
+.zenith__option {
     position: relative;
     font-family: 'Montserrat';
     font-style: normal;
@@ -110,18 +111,18 @@
     bottom: 8px;
 }
 
-.oq-tosh__line-img {
+.zenith__line-img {
     position: relative;
     bottom: 9px;
 }
 
-.rectangle22__image {
+.rectangle18__image {
     margin: 128px 100px 0px 100px;
 }
 
 .client__paragraph {
     margin: 80px 226px 0px 293px;
-    width: 940px;
+    width: 798px;
     font-family: 'Montserrat';
     font-style: normal;
     font-weight: 400;
@@ -129,22 +130,22 @@
     line-height: 40px;
 }
 
-.kitchen__images {
+.hall__images {
     margin: 80px 100px 0px 100px;
 }
 
-.kitchen__image-one {
+.hall__image-one {
     margin-bottom: 224px;
 }
 
-.kitchen__image-two {
+.hall__image-two {
     margin-left: 58px;
     margin-top: 105px;
 }
 
-.kitchen__paragraph {
+.hall__paragraph {
     margin: 80px 304px 0px 293px;
-    width: 981px;
+    width: 750px;
     font-family: 'Montserrat';
     font-style: normal;
     font-weight: 400;
@@ -155,22 +156,22 @@
     margin: 80px 105px 0px 95px;
 }
 
-.hall__images {
-    margin: 80px 100px 0px 100px;
+.coridor__images {
+    margin: 120 px 100px 0px 100px;
 }
 
-.hall__image-one {
+.coridor__image-one {
     margin-bottom: 184px;
 }
 
-.hall__image-two {
+.coridor__image-two {
     margin-left: 58px;
     margin-top: 65px;
 }
 
-.hall__paragraph {
+.coridor__paragraph {
     margin: 80px 324px 0px 314px;
-    width: 981px;
+    width: 862px;
     font-family: 'Montserrat';
     font-style: normal;
     font-weight: 400;
@@ -188,12 +189,12 @@
 
 .bathroom__image-two {
     margin-left: 58px;
-    margin-top: 65px;
+    margin-top: 267px;
 }
 
 .bathroom__paragraph {
     margin: 80px 338px 0px 337px;
-    width: 981px;
+    width: 980px;
     font-family: 'Montserrat';
     font-style: normal;
     font-weight: 400;
@@ -202,7 +203,7 @@
 }
 
 .footer {
-    margin-top: 117px;
+    margin-top: 90px;
     background: #FBFBF9;
     height: 400px;
 }
